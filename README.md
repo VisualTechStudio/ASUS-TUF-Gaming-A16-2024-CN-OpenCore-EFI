@@ -1,2 +1,28 @@
-# ASUS-TUF-Gaming-A16-2024-FA607PV-Hackintosh-EFI
-适用于 华硕天选5 Pro 锐龙版（ASUS TUF Gaming A16 2024，型号 FA607PV） 的黑苹果 EFI，基于 OpenCore，运行 macOS 26 Tahoe
+<div align="center">
+             <h1>ASUS TUF Gaming A16 2024 Ryzen CN OpenCore EFI</h1>
+             <img src="https://img.shields.io/github/release/ASUS-TX-Gaming-7Pro-Ryzen-CN-OpenCore-EFI" />
+             <img src="https://img.shields.io/github/downloads/VisualTechStudio/ASUS-TX-Gaming-7Pro-Ryzen-CN-OpenCore-EFI/total?color=white&style=plastic" />
+             <img src="https://img.shields.io/github/stars/VisualTechStudio/ASUS-TX-Gaming-7Pro-Ryzen-CN-OpenCore-EFI" />
+             <br>
+             <br>
+             <a href="README_en_US.md">🇬🇧English Readme</a>
+</div>
+
+# 硬件详情
+- 主板:ASUS TUF Gaming A16 2024 Ryzen CN
+- CPU:AMD Ryzen 9 7945HX 16-Core Processor
+- 内存:? 16GBx2 DDR5 5200MHz
+- 显卡:NVIDIA Geforce RTX 4060 Laptop
+- 无线PCIE网卡:?
+
+
+# 工作情况
+- [x] Apple服务(iCloud/iMessage/FaceTime)
+- [x] GPU硬件加速(Metal 4)
+- [x] CPU电源管理
+- [x] USB端口
+- [x] Wifi
+- [x] 关闭显示器
+- [x] 板载声卡
+- [X] 睡眠
+- [x] 蓝牙
