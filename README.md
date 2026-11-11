@@ -11,9 +11,9 @@
 # 硬件详情
 - 主板:ASUS TUF Gaming A16 2024 Ryzen CN
 - CPU:AMD Ryzen 9 7945HX 16-Core Processor
-- 内存:? 16GBx2 DDR5 5200MHz
+- 内存:美光 16GBx2 DDR5 5200MHz
 - 显卡:NVIDIA Geforce RTX 4060 Laptop
-- 无线PCIE网卡:?
+- 无线PCIE网卡:MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
 
 
 # 工作情况
